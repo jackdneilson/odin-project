@@ -1,3 +1,6 @@
 [submodule "odin-css-exercises"]
 	path = odin-css-exercises
 	url = git@github.com:jackdneilson/odin-css-exercises.git
+[submodule "odin-landing-page"]
+	path = odin-landing-page
+	url = git@github.com:jackdneilson/odin-landing-page.git
